@@ -1,0 +1,3 @@
+# To illustrate the concepts of Command Line Arguments.
+
+Command Line Arguments are parameters that are supplied to the application program at the time of invoking it for execution. We can write Java programs that can receive and use the arguments provided in the command line. e.g. publicstatic void main (String args[]). args is declared as an array of strings and arguments provided in the command line are passed to the array args as its elements. A Java application can accept any number of arguments from the command line. This allows the user to specify configuration information when the application is launched.

@@ -1,0 +1,3 @@
+# Class with member and methods by accessing the instance variables and instance methods using dot (.) operator and display.
+
+Create a class called Rectangle having three instance variables length, width & area. Set the values in length and width using object and dot (.) operator, not by using methods. Calculate the area of the rectangle and set the value into area variable using object and dot (.) operator. Display the values of the three instance variables.
