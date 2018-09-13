@@ -1,0 +1,4 @@
+# Experiment 6 -  Program on strings to concatenate, To lowercase, To uppercase and substring. 
+
+String is a final class available in java.lang package which represents a group of characters. String is fixed in length and immutable.(Because we can never modify the contents of a String. Whenever we try to change the value of a String a new String object gets created.) Strings are generally used when we want to have constants in our program. 
+We can create the String class object in two ways: With “new “operator. Without “new” operator. Only String class has the facility to create the object without “new” operator. 
