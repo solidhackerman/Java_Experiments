@@ -1,3 +1,3 @@
-# Java Experiment in Sem 3
+# Java Experiment
 
 This repo have java experiment 
